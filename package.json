@@ -62,7 +62,7 @@
   },
   "devDependencies": {
     "vows": "0.7.x",
-    "request": "2.21.x"
+    "request": "2.88.x"
   },
   "bugs": {
     "url": "https://github.com/nodeapps/http-server/issues"
